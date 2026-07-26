@@ -1,0 +1,12 @@
+{
+  "_comment": "Gemeentes waarvan bekend is dat de APV het verbod expliciet uitbreidt naar (delen van) gebied buiten de bebouwde kom, bijv. een met naam genoemd natuurgebied of park. Dit is een groeiende, met de hand + CVDR (lokaleregelgeving.overheid.nl) onderzochte lijst — geen uitputtend landelijk overzicht. Voeg toe zodra een gemeente geverifieerd is.",
+  "gemeentes": [
+    {
+      "gemeente": "Den Haag",
+      "gebied": "Haagse Bos",
+      "reden": "Genoemd als voorbeeld van een aangewezen natuurgebied dat mogelijk binnen de APV-werkingssfeer valt, ook al ligt het (deels) buiten de kerngrens.",
+      "geverifieerd": false,
+      "bron": "https://eenvandaag.avrotros.nl/item/in-de-natuur-plotseling-een-volle-blaas-wildplassen-mag-daar-maar-doe-het-wel-ongezien/"
+    }
+  ]
+}
